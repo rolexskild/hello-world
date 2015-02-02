@@ -2,3 +2,5 @@
 Rolexskild's first repository
 
 <!-- Reading this makes my eyes blle -->
+
+Nerd life.
